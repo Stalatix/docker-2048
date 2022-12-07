@@ -1,5 +1,5 @@
 # docker-2048
-Emilien Modif
+Emilien Modif2
 simple is better
 
 a smaller docker version of 2048
